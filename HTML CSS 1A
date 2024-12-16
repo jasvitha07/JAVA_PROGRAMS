@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HTML like demonstration</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h2> <ul>courses(UnOrdered List)</h2> 
+      <li>B.Tech</li>
+      <li>M.Tech</li>
+      <li>Ph.DL</li></ul>
+      <h2>Branches(Ordered List)</h2><ol>
+      <li>ECE</li>
+      <li>CSE</li>
+      <li>IT</li>
+      <li>AIML</li></ol>
+      <h2>Nested List</h2>
+      <ul><li>II year</li>
+      <ul><li>Section A</li>
+      <li>Section B</li>
+      <li>Section C</li></ul></ul>
+      <ul><li>III year</li>
+      <ul><li>Section A</li>
+      <li>Section B</li></ul></ul>
+      <h2>Ordered List inside An UnOrdered List</h2>
+      <ul><li>Programming languges</li><ol>
+      <li>Python</li>
+      <li>Java</li>
+      <li>C++</li></ol></ul>
+      <ul><li>DataBase</li><ol>
+      <li>MYSQL</li>
+      <li>postgreSQL</li></ul></ol>
+      <h2>Definition List</h2>
+      <dl><dt>HTML</dt><dd>HyperText Markup Language - the standard markup language for creating web pages</dd></dl>
+      <dl><dt>CSS</dt><dd>Cascading Style Sheets - used for styling HTML elements.</dd></dl>
+      <dl><dt>JAVASCRIPT</dt><dd>A Programming languges used to create dynamic and interactive web content</dd></DD></dl>
+  </body>
+</html>
+OUTPUT:courses(UnOrdered List)
+B.Tech
+M.Tech
+Ph.DL
+Branches(Ordered List)
+ECE
+CSE
+IT
+AIML
+Nested List
+II year
+Section A
+Section B
+Section C
+III year
+Section A
+Section B
+Ordered List inside An UnOrdered List
+Programming languges
+Python
+Java
+C++
+DataBase
+MYSQL
+postgreSQL
+Definition List
+HTML
+HyperText Markup Language - the standard markup language for creating web pages
+CSS
+Cascading Style Sheets - used for styling HTML elements.
+JAVASCRIPT
+A Programming languges used to create dynamic and interactive web content
